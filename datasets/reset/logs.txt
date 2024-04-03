@@ -1,0 +1,700 @@
+S1 - Unpublished.
+N=4
+['0', '0', '1/2', '3/8', '3/16', '0']
+1.0625
+Digital output test passed:
+True
+ 
+S1_bot_bot - Unpublished.
+N=4
+['0', '0', '1/2', '3/8', '3/16', '0']
+1.0625
+Digital output test passed:
+True
+ 
+S2 - Unpublished. Unbalanced initialization.
+N=4
+['0', '0', '-1/2', '3/8', '3/16', '3/2']
+1.5625
+Digital output test passed:
+True
+ 
+S3 - Unpublished. Submitted to ISCAS24. Unbalanced initialization, uses merging, suffers from reset.
+N=4
+['0', '0', '-1/2', '1/4', '11/128', '3/2']
+1.3359375
+Digital output test passed:
+True
+ 
+S4 - Unpublished. A combination of S1 and S3. More efficient than S1, doesn't suffer from reset.
+N=4
+['0', '0', '1/2', '1/4', '11/128', '-1/16']
+0.7734375
+Digital output test passed:
+True
+ 
+S5 - Unpublished.
+N=4
+['0', '0', '0', '1/4', '11/128', '23/32']
+1.0546875
+Digital output test passed:
+True
+ 
+ProposedLTB - Unpublished.
+N=4
+['0', '0', '-1/2', '3/8', '3/16', '3/2']
+1.5625
+Digital output test passed:
+True
+ 
+ProposedLTT2 - Unpublished.
+N=4
+['0', '0', '3/2', '-1/8', '3/16', '2']
+3.5625
+Digital output test passed:
+True
+ 
+Rahimi - https://doi.org/10.1049/el.2013.3451
+N=4
+['0', '0', '1/2', '3/8', '1/16', '1/4']
+1.1875
+Digital output test passed:
+True
+ 
+Sanyal - https://doi.org/10.1049/el.2012.3900
+N=4
+['0', '0', '0', '1/4', '0', '1']
+1.25
+Digital output test passed:
+True
+ 
+Chen - 10.1109/ESSCIRC.2014.6942061
+N=4
+['0', '0', '0', '1/2', '0', '3/2']
+2.0
+Digital output test passed:
+True
+ 
+ZZhu - https://doi.org/10.1049/el.2012.3332
+N=4
+['0', '0', '0', '1/4', '1/8', '-1/4']
+0.125
+Digital output test passed:
+True
+ 
+Zhu - 10.1109/JSSC.2010.2048498
+N=4
+['0', '0', '1', '3/4', '7/16', '0']
+2.1875
+Digital output test passed:
+True
+ 
+Conventional - 10.1109/TCSI.2012.2230587 (8-bit) and shown in many other works.
+N=4
+['0', '0', '6', '7/2', '15/8', '8']
+19.375
+Digital output test passed:
+True
+ 
+Yuan12 - 10.1049/el.2011.4001
+N=4
+['0', '0', '0', '1/4', '3/16', '0']
+0.4375
+Digital output test passed:
+True
+ 
+Yuan15 - 10.1109/ASSCC.2015.7387509
+N=4
+['0', '0', '0', '3/8', '3/16', '9/8']
+1.6875
+Digital output test passed:
+True
+ 
+Zhao - 10.1109/JSEN.2022.3195632
+N=4
+['0', '0', '0', '1/4', '1/8', '0']
+0.375
+Digital output test passed:
+True
+ 
+Jajodia - https://doi.org/10.1016/j.aeue.2020.153334
+N=4
+['0', '0', '0', '3/8', '7/32', '1']
+1.59375
+Digital output test passed:
+True
+ 
+Hu - 10.1109/TCSI.2012.2230587
+N=4
+['0', '0', '1/2', '3/8', '7/32', '0']
+1.09375
+Digital output test passed:
+True
+ 
+Du - 10.1109/TCSII.2023.3342829
+N=4
+['0', '12', '3', '7/4', '15/16', '85/64']
+19.015625
+Digital output test passed:
+True
+ 
+S1 - Unpublished.
+N=5
+['0', '0', '1', '3/4', '7/16', '7/32', '0']
+2.40625
+Digital output test passed:
+True
+ 
+S1_bot_bot - Unpublished.
+N=5
+['0', '0', '1', '3/4', '7/16', '7/32', '0']
+2.40625
+Digital output test passed:
+True
+ 
+S2 - Unpublished. Unbalanced initialization.
+N=5
+['0', '0', '-1', '3/4', '7/16', '7/32', '3']
+3.40625
+Digital output test passed:
+True
+ 
+S3 - Unpublished. Submitted to ISCAS24. Unbalanced initialization, uses merging, suffers from reset.
+N=5
+['0', '0', '-1', '1/2', '1/4', '55/512', '3']
+2.857421875
+Digital output test passed:
+True
+ 
+S4 - Unpublished. A combination of S1 and S3. More efficient than S1, doesn't suffer from reset.
+N=5
+['0', '0', '1', '1/2', '1/4', '55/512', '-1/32']
+1.826171875
+Digital output test passed:
+True
+ 
+S5 - Unpublished.
+N=5
+['0', '0', '0', '1/2', '1/4', '55/512', '95/64']
+2.341796875
+Digital output test passed:
+True
+ 
+ProposedLTB - Unpublished.
+N=5
+['0', '0', '-1', '3/4', '7/16', '7/32', '3']
+3.40625
+Digital output test passed:
+True
+ 
+ProposedLTT2 - Unpublished.
+N=5
+['0', '0', '3', '7/4', '-1/16', '7/32', '4']
+8.90625
+Digital output test passed:
+True
+ 
+Rahimi - https://doi.org/10.1049/el.2013.3451
+N=5
+['0', '0', '1', '3/4', '7/16', '3/32', '1/4']
+2.53125
+Digital output test passed:
+True
+ 
+Sanyal - https://doi.org/10.1049/el.2012.3900
+N=5
+['0', '0', '0', '1/2', '1/8', '0', '5/2']
+3.125
+Digital output test passed:
+True
+ 
+Chen - 10.1109/ESSCIRC.2014.6942061
+N=5
+['0', '0', '0', '1', '1/2', '0', '7/2']
+5.0
+Digital output test passed:
+True
+ 
+ZZhu - https://doi.org/10.1049/el.2012.3332
+N=5
+['0', '0', '0', '1/2', '1/4', '1/8', '-1/4']
+0.625
+Digital output test passed:
+True
+ 
+Zhu - 10.1109/JSSC.2010.2048498
+N=5
+['0', '0', '2', '3/2', '7/8', '15/32', '0']
+4.84375
+Digital output test passed:
+True
+ 
+Conventional - 10.1109/TCSI.2012.2230587 (8-bit) and shown in many other works.
+N=5
+['0', '0', '12', '7', '15/4', '31/16', '16']
+40.6875
+Digital output test passed:
+True
+ 
+Yuan12 - 10.1049/el.2011.4001
+N=5
+['0', '0', '0', '1/2', '3/8', '7/32', '0']
+1.09375
+Digital output test passed:
+True
+ 
+Yuan15 - 10.1109/ASSCC.2015.7387509
+N=5
+['0', '0', '0', '3/4', '7/16', '7/32', '17/8']
+3.53125
+Digital output test passed:
+True
+ 
+Zhao - 10.1109/JSEN.2022.3195632
+N=5
+['0', '0', '0', '1/2', '1/4', '1/8', '0']
+0.875
+Digital output test passed:
+True
+ 
+Jajodia - https://doi.org/10.1016/j.aeue.2020.153334
+N=5
+['0', '0', '0', '3/4', '7/16', '15/64', '2']
+3.421875
+Digital output test passed:
+True
+ 
+Hu - 10.1109/TCSI.2012.2230587
+N=5
+['0', '0', '1', '3/4', '7/16', '15/64', '0']
+2.421875
+Digital output test passed:
+True
+ 
+Du - 10.1109/TCSII.2023.3342829
+N=5
+['0', '24', '6', '7/2', '15/8', '31/32', '341/128']
+39.0078125
+Digital output test passed:
+True
+ 
+S1 - Unpublished.
+N=6
+['0', '0', '2', '3/2', '7/8', '15/32', '15/64', '0']
+5.078125
+Digital output test passed:
+True
+ 
+S1_bot_bot - Unpublished.
+N=6
+['0', '0', '2', '3/2', '7/8', '15/32', '15/64', '0']
+5.078125
+Digital output test passed:
+True
+ 
+S2 - Unpublished. Unbalanced initialization.
+N=6
+['0', '0', '-2', '3/2', '7/8', '15/32', '15/64', '6']
+7.078125
+Digital output test passed:
+True
+ 
+S3 - Unpublished. Submitted to ISCAS24. Unbalanced initialization, uses merging, suffers from reset.
+N=6
+['0', '0', '-2', '1', '1/2', '1/4', '239/2048', '6']
+5.86669921875
+Digital output test passed:
+True
+ 
+S4 - Unpublished. A combination of S1 and S3. More efficient than S1, doesn't suffer from reset.
+N=6
+['0', '0', '2', '1', '1/2', '1/4', '239/2048', '-1/64']
+3.85107421875
+Digital output test passed:
+True
+ 
+S5 - Unpublished.
+N=6
+['0', '0', '0', '1', '1/2', '1/4', '239/2048', '383/128']
+4.85888671875
+Digital output test passed:
+True
+ 
+ProposedLTB - Unpublished.
+N=6
+['0', '0', '-2', '3/2', '7/8', '15/32', '15/64', '6']
+7.078125
+Digital output test passed:
+True
+ 
+ProposedLTT2 - Unpublished.
+N=6
+['0', '0', '6', '7/2', '15/8', '-1/32', '15/64', '8']
+19.578125
+Digital output test passed:
+True
+ 
+Rahimi - https://doi.org/10.1049/el.2013.3451
+N=6
+['0', '0', '2', '3/2', '7/8', '15/32', '7/64', '1/4']
+5.203125
+Digital output test passed:
+True
+ 
+Sanyal - https://doi.org/10.1049/el.2012.3900
+N=6
+['0', '0', '0', '1', '1/4', '1/16', '0', '11/2']
+6.8125
+Digital output test passed:
+True
+ 
+Chen - 10.1109/ESSCIRC.2014.6942061
+N=6
+['0', '0', '0', '2', '1', '1/2', '0', '15/2']
+11.0
+Digital output test passed:
+True
+ 
+ZZhu - https://doi.org/10.1049/el.2012.3332
+N=6
+['0', '0', '0', '1', '1/2', '1/4', '1/8', '-1/4']
+1.625
+Digital output test passed:
+True
+ 
+Zhu - 10.1109/JSSC.2010.2048498
+N=6
+['0', '0', '4', '3', '7/4', '15/16', '31/64', '0']
+10.171875
+Digital output test passed:
+True
+ 
+Conventional - 10.1109/TCSI.2012.2230587 (8-bit) and shown in many other works.
+N=6
+['0', '0', '24', '14', '15/2', '31/8', '63/32', '32']
+83.34375
+Digital output test passed:
+True
+ 
+Yuan12 - 10.1049/el.2011.4001
+N=6
+['0', '0', '0', '1', '3/4', '7/16', '15/64', '0']
+2.421875
+Digital output test passed:
+True
+ 
+Yuan15 - 10.1109/ASSCC.2015.7387509
+N=6
+['0', '0', '0', '3/2', '7/8', '15/32', '15/64', '33/8']
+7.203125
+Digital output test passed:
+True
+ 
+Zhao - 10.1109/JSEN.2022.3195632
+N=6
+['0', '0', '0', '1', '1/2', '1/4', '1/8', '0']
+1.875
+Digital output test passed:
+True
+ 
+Jajodia - https://doi.org/10.1016/j.aeue.2020.153334
+N=6
+['0', '0', '0', '3/2', '7/8', '15/32', '31/128', '4']
+7.0859375
+Digital output test passed:
+True
+ 
+Hu - 10.1109/TCSI.2012.2230587
+N=6
+['0', '0', '2', '3/2', '7/8', '15/32', '31/128', '0']
+5.0859375
+Digital output test passed:
+True
+ 
+Du - 10.1109/TCSII.2023.3342829
+N=6
+['0', '48', '12', '7', '15/4', '31/16', '63/64', '1365/256']
+79.00390625
+Digital output test passed:
+True
+ 
+S1 - Unpublished.
+N=4
+['0', '0', '1/2', '3/8', '3/16', '0']
+1.0625
+Digital output test passed:
+True
+ 
+S1_bot_bot - Unpublished.
+N=4
+['0', '0', '1/2', '3/8', '3/16', '0']
+1.0625
+Digital output test passed:
+True
+ 
+S2 - Unpublished. Unbalanced initialization.
+N=4
+['0', '0', '-1/2', '3/8', '3/16', '3/2']
+1.5625
+Digital output test passed:
+True
+ 
+S3 - Unpublished. Submitted to ISCAS24. Unbalanced initialization, uses merging, suffers from reset.
+N=4
+['0', '0', '-1/2', '1/4', '11/128', '3/2']
+1.3359375
+Digital output test passed:
+True
+ 
+S4 - Unpublished. A combination of S1 and S3. More efficient than S1, doesn't suffer from reset.
+N=4
+['0', '0', '1/2', '1/4', '11/128', '-1/16']
+0.7734375
+Digital output test passed:
+True
+ 
+S5 - Unpublished.
+N=4
+['0', '0', '0', '1/4', '11/128', '23/32']
+1.0546875
+Digital output test passed:
+True
+ 
+ProposedLTB - Unpublished.
+N=4
+['0', '0', '-1/2', '3/8', '3/16', '3/2']
+1.5625
+Digital output test passed:
+True
+ 
+ProposedLTT2 - Unpublished.
+N=4
+['0', '0', '3/2', '-1/8', '3/16', '2']
+3.5625
+Digital output test passed:
+True
+ 
+Rahimi - https://doi.org/10.1049/el.2013.3451
+N=4
+['0', '0', '1/2', '3/8', '1/16', '1/4']
+1.1875
+Digital output test passed:
+True
+ 
+Sanyal - https://doi.org/10.1049/el.2012.3900
+N=4
+['0', '0', '0', '1/4', '0', '1']
+1.25
+Digital output test passed:
+True
+ 
+Chen - 10.1109/ESSCIRC.2014.6942061
+N=4
+['0', '0', '0', '1/2', '0', '3/2']
+2.0
+Digital output test passed:
+True
+ 
+ZZhu - https://doi.org/10.1049/el.2012.3332
+N=4
+['0', '0', '0', '1/4', '1/8', '-1/4']
+0.125
+Digital output test passed:
+True
+ 
+Zhu - 10.1109/JSSC.2010.2048498
+N=4
+['0', '0', '1', '3/4', '7/16', '0']
+2.1875
+Digital output test passed:
+True
+ 
+Conventional - 10.1109/TCSI.2012.2230587 (8-bit) and shown in many other works.
+N=4
+['0', '0', '6', '7/2', '15/8', '8']
+19.375
+Digital output test passed:
+True
+ 
+Yuan12 - 10.1049/el.2011.4001
+N=4
+['0', '0', '0', '1/4', '3/16', '0']
+0.4375
+Digital output test passed:
+True
+ 
+Yuan15 - 10.1109/ASSCC.2015.7387509
+N=4
+['0', '0', '0', '3/8', '3/16', '9/8']
+1.6875
+Digital output test passed:
+True
+ 
+Zhao - 10.1109/JSEN.2022.3195632
+N=4
+['0', '0', '0', '1/4', '1/8', '0']
+0.375
+Digital output test passed:
+True
+ 
+Jajodia - https://doi.org/10.1016/j.aeue.2020.153334
+N=4
+['0', '0', '0', '3/8', '7/32', '1']
+1.59375
+Digital output test passed:
+True
+ 
+Hu - 10.1109/TCSI.2012.2230587
+N=4
+['0', '0', '1/2', '3/8', '7/32', '0']
+1.09375
+Digital output test passed:
+True
+ 
+Du - 10.1109/TCSII.2023.3342829
+N=4
+['0', '12', '3', '7/4', '15/16', '85/64']
+19.015625
+Digital output test passed:
+True
+ 
+S1 - Unpublished.
+N=4
+['0', '0', '1/2', '3/8', '3/16', '0']
+1.0625
+Digital output test passed:
+True
+ 
+S1_bot_bot - Unpublished.
+N=4
+['0', '0', '1/2', '3/8', '3/16', '0']
+1.0625
+Digital output test passed:
+True
+ 
+S2 - Unpublished. Unbalanced initialization.
+N=4
+['0', '0', '-1/2', '3/8', '3/16', '3/2']
+1.5625
+Digital output test passed:
+True
+ 
+S3 - Unpublished. Submitted to ISCAS24. Unbalanced initialization, uses merging, suffers from reset.
+N=4
+['0', '0', '-1/2', '1/4', '11/128', '3/2']
+1.3359375
+Digital output test passed:
+True
+ 
+S4 - Unpublished. A combination of S1 and S3. More efficient than S1, doesn't suffer from reset.
+N=4
+['0', '0', '1/2', '1/4', '11/128', '-1/16']
+0.7734375
+Digital output test passed:
+True
+ 
+S5 - Unpublished.
+N=4
+['0', '0', '0', '1/4', '11/128', '23/32']
+1.0546875
+Digital output test passed:
+True
+ 
+ProposedLTB - Unpublished.
+N=4
+['0', '0', '-1/2', '3/8', '3/16', '3/2']
+1.5625
+Digital output test passed:
+True
+ 
+ProposedLTT2 - Unpublished.
+N=4
+['0', '0', '3/2', '-1/8', '3/16', '2']
+3.5625
+Digital output test passed:
+True
+ 
+Rahimi - https://doi.org/10.1049/el.2013.3451
+N=4
+['0', '0', '1/2', '3/8', '1/16', '1/4']
+1.1875
+Digital output test passed:
+True
+ 
+Sanyal - https://doi.org/10.1049/el.2012.3900
+N=4
+['0', '0', '0', '1/4', '0', '1']
+1.25
+Digital output test passed:
+True
+ 
+Chen - 10.1109/ESSCIRC.2014.6942061
+N=4
+['0', '0', '0', '1/2', '0', '3/2']
+2.0
+Digital output test passed:
+True
+ 
+ZZhu - https://doi.org/10.1049/el.2012.3332
+N=4
+['0', '0', '0', '1/4', '1/8', '-1/4']
+0.125
+Digital output test passed:
+True
+ 
+Zhu - 10.1109/JSSC.2010.2048498
+N=4
+['0', '0', '1', '3/4', '7/16', '0']
+2.1875
+Digital output test passed:
+True
+ 
+Conventional - 10.1109/TCSI.2012.2230587 (8-bit) and shown in many other works.
+N=4
+['0', '0', '6', '7/2', '15/8', '8']
+19.375
+Digital output test passed:
+True
+ 
+Yuan12 - 10.1049/el.2011.4001
+N=4
+['0', '0', '0', '1/4', '3/16', '0']
+0.4375
+Digital output test passed:
+True
+ 
+Yuan15 - 10.1109/ASSCC.2015.7387509
+N=4
+['0', '0', '0', '3/8', '3/16', '9/8']
+1.6875
+Digital output test passed:
+True
+ 
+Zhao - 10.1109/JSEN.2022.3195632
+N=4
+['0', '0', '0', '1/4', '1/8', '0']
+0.375
+Digital output test passed:
+True
+ 
+Jajodia - https://doi.org/10.1016/j.aeue.2020.153334
+N=4
+['0', '0', '0', '3/8', '7/32', '1']
+1.59375
+Digital output test passed:
+True
+ 
+Hu - 10.1109/TCSI.2012.2230587
+N=4
+['0', '0', '1/2', '3/8', '7/32', '0']
+1.09375
+Digital output test passed:
+True
+ 
+Du - 10.1109/TCSII.2023.3342829
+N=4
+['0', '12', '3', '7/4', '15/16', '85/64']
+19.015625
+Digital output test passed:
+True
+ 
